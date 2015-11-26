@@ -1,3 +1,5 @@
+[Official Guide for installing](https://github.com/oracle/node-oracledb/blob/master/INSTALL.md#instwin)
+
 ### 1.1 Install required tools
 
 Install a C/C++ build environment such as Microsoft Visual
